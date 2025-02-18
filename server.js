@@ -24,7 +24,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "https://backendcapstone.ngocthuong.click/",
+    origin: "https://capstone.ngocthuong.click",
     credentials: true,
   })
 );
